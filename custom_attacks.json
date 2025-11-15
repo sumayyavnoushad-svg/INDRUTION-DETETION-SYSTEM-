@@ -1,0 +1,12 @@
+{"timestamp": "2025-11-15T16:40:04.422702+05:30", "src_ip": "202.83.51.23", "username": "root", "password": "asdasdasd", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T16:47:57.627071+05:30", "src_ip": "202.83.51.23", "username": "root", "password": "testingagain", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T16:50:33.952167+05:30", "src_ip": "13.51.233.254", "username": "root", "password": "?", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T16:58:55.357917+05:30", "src_ip": "202.83.51.23", "username": "test", "password": "quit", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T23:07:15.151823+05:30", "src_ip": "202.83.51.23", "username": "kali", "password": "kali", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T23:07:30.123803+05:30", "src_ip": "202.83.51.23", "username": "root", "password": "sumitest", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T23:25:50.411720+05:30", "src_ip": "202.83.51.23", "username": "root", "password": "ajas", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T23:35:32.662758+05:30", "src_ip": "202.83.51.23", "username": "root", "password": "t2", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T23:35:38.266030+05:30", "src_ip": "202.83.51.23", "username": "root", "password": "t3", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T23:35:42.630854+05:30", "src_ip": "202.83.51.23", "username": "root", "password": "t4", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T23:35:56.313053+05:30", "src_ip": "202.83.51.23", "username": "root", "password": "t5", "event": "login_attempt", "command": ""}
+{"timestamp": "2025-11-15T23:57:27.571544+05:30", "src_ip": "202.83.51.23", "username": "root", "password": "onlyoncusto", "event": "login_attempt", "command": ""}
